@@ -208,7 +208,7 @@ with st.sidebar:
 
 
 # ---------- Main UI ----------
-st.title("🎙️ Multi-Style TTS Agent")
+st.title("🎙️ MANISH SINGH Multi-Style TTS Agent")
 st.caption("Classify → Rewrite → Speak. The agent picks the best voice for the content.")
 
 EXAMPLES = {
