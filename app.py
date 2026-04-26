@@ -7,6 +7,7 @@ import io
 import tempfile
 import re
 import os
+import streamlit as st
 
 # Load environment variables and set OpenAI API key
 load_dotenv()
